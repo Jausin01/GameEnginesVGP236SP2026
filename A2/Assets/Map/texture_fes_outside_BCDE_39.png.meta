@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: 639e7b3272733de4d9a4e814863be8f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -76422089026794642
+    second: texture_fes_outside_BCDE_39_0
+  - first:
+      213: -3813103568775377844
+    second: texture_fes_outside_BCDE_39_1
+  - first:
+      213: 8936679334797579367
+    second: texture_fes_outside_BCDE_39_2
+  - first:
+      213: -8658119535179605290
+    second: texture_fes_outside_BCDE_39_3
+  - first:
+      213: 1407957259219804215
+    second: texture_fes_outside_BCDE_39_4
+  - first:
+      213: 4834107477567868543
+    second: texture_fes_outside_BCDE_39_5
+  - first:
+      213: -6268589022983811359
+    second: texture_fes_outside_BCDE_39_6
+  - first:
+      213: 8094935998537954110
+    second: texture_fes_outside_BCDE_39_7
+  - first:
+      213: 6411133767037042105
+    second: texture_fes_outside_BCDE_39_8
+  - first:
+      213: 8413055812150822418
+    second: texture_fes_outside_BCDE_39_9
+  - first:
+      213: -7951698428656157351
+    second: texture_fes_outside_BCDE_39_10
+  - first:
+      213: 1981979666232984162
+    second: texture_fes_outside_BCDE_39_11
+  - first:
+      213: 8425794499812617093
+    second: texture_fes_outside_BCDE_39_12
+  - first:
+      213: -1328844867199267047
+    second: texture_fes_outside_BCDE_39_13
+  - first:
+      213: -1818340029680047213
+    second: texture_fes_outside_BCDE_39_14
+  - first:
+      213: -8214010599383157327
+    second: texture_fes_outside_BCDE_39_15
+  - first:
+      213: 8884623211652572570
+    second: texture_fes_outside_BCDE_39_16
+  - first:
+      213: -7842342428590129702
+    second: texture_fes_outside_BCDE_39_17
+  - first:
+      213: -2489114699094331825
+    second: texture_fes_outside_BCDE_39_18
+  - first:
+      213: -2424178538937810535
+    second: texture_fes_outside_BCDE_39_19
+  - first:
+      213: 4125649319858597650
+    second: texture_fes_outside_BCDE_39_20
+  - first:
+      213: 5340867447455762162
+    second: texture_fes_outside_BCDE_39_21
+  - first:
+      213: -1096970255809995057
+    second: texture_fes_outside_BCDE_39_22
+  - first:
+      213: 8922190094675838638
+    second: texture_fes_outside_BCDE_39_23
+  - first:
+      213: 1942875696738100809
+    second: texture_fes_outside_BCDE_39_24
+  - first:
+      213: 5970988798789503366
+    second: texture_fes_outside_BCDE_39_25
+  - first:
+      213: 8980685313680189182
+    second: texture_fes_outside_BCDE_39_26
+  - first:
+      213: -8147518052194779419
+    second: texture_fes_outside_BCDE_39_27
+  - first:
+      213: -2276935142980487943
+    second: texture_fes_outside_BCDE_39_28
+  - first:
+      213: -4791584055516563079
+    second: texture_fes_outside_BCDE_39_29
+  - first:
+      213: -3332682964774588824
+    second: texture_fes_outside_BCDE_39_30
+  - first:
+      213: 7254889238072004050
+    second: texture_fes_outside_BCDE_39_31
+  - first:
+      213: 1542710099378902758
+    second: texture_fes_outside_BCDE_39_32
+  - first:
+      213: -5494490604060170004
+    second: texture_fes_outside_BCDE_39_33
+  - first:
+      213: -8320050241095122361
+    second: texture_fes_outside_BCDE_39_34
+  - first:
+      213: -4494054228043095062
+    second: texture_fes_outside_BCDE_39_35
+  - first:
+      213: 531244913646522395
+    second: texture_fes_outside_BCDE_39_36
+  - first:
+      213: -2507821796212731312
+    second: texture_fes_outside_BCDE_39_37
+  - first:
+      213: 5708516137440956881
+    second: texture_fes_outside_BCDE_39_38
+  - first:
+      213: -3863968431009062216
+    second: texture_fes_outside_BCDE_39_39
+  - first:
+      213: -2739911434410410207
+    second: texture_fes_outside_BCDE_39_40
+  - first:
+      213: -5967121605169092022
+    second: texture_fes_outside_BCDE_39_41
+  - first:
+      213: -4237889362963485045
+    second: texture_fes_outside_BCDE_39_42
+  - first:
+      213: 3792909864110807821
+    second: texture_fes_outside_BCDE_39_43
+  - first:
+      213: 5119477282876119350
+    second: texture_fes_outside_BCDE_39_44
+  - first:
+      213: -4353913347885524482
+    second: texture_fes_outside_BCDE_39_45
+  - first:
+      213: -5796771664234321982
+    second: texture_fes_outside_BCDE_39_46
+  - first:
+      213: -8061536118278656000
+    second: texture_fes_outside_BCDE_39_47
+  - first:
+      213: -5012040896644079164
+    second: texture_fes_outside_BCDE_39_48
+  - first:
+      213: -9114643353842798641
+    second: texture_fes_outside_BCDE_39_49
+  - first:
+      213: -7439911972809681880
+    second: texture_fes_outside_BCDE_39_50
+  - first:
+      213: 2786454046042861691
+    second: texture_fes_outside_BCDE_39_51
+  - first:
+      213: -1347324110432977466
+    second: texture_fes_outside_BCDE_39_52
+  - first:
+      213: -3034032496237166232
+    second: texture_fes_outside_BCDE_39_53
+  - first:
+      213: -6778991963288034895
+    second: texture_fes_outside_BCDE_39_54
+  - first:
+      213: 4073682868849782879
+    second: texture_fes_outside_BCDE_39_55
+  - first:
+      213: 7047436637782890162
+    second: texture_fes_outside_BCDE_39_56
+  - first:
+      213: -830869088300329624
+    second: texture_fes_outside_BCDE_39_57
+  - first:
+      213: 5241544951072421329
+    second: texture_fes_outside_BCDE_39_58
+  - first:
+      213: 1018696151740149018
+    second: texture_fes_outside_BCDE_39_59
+  - first:
+      213: 9047998071591423618
+    second: texture_fes_outside_BCDE_39_60
+  - first:
+      213: 5918774448832322352
+    second: texture_fes_outside_BCDE_39_61
+  - first:
+      213: 4091539284533697265
+    second: texture_fes_outside_BCDE_39_62
+  - first:
+      213: -603435962013318087
+    second: texture_fes_outside_BCDE_39_63
+  - first:
+      213: 548418246153306040
+    second: texture_fes_outside_BCDE_39_64
+  - first:
+      213: 8702884752261237645
+    second: texture_fes_outside_BCDE_39_65
+  - first:
+      213: 3598766660115972774
+    second: texture_fes_outside_BCDE_39_66
+  - first:
+      213: 7298670604991356541
+    second: texture_fes_outside_BCDE_39_67
+  - first:
+      213: -6880900192755810918
+    second: texture_fes_outside_BCDE_39_68
+  - first:
+      213: -6771842374315030170
+    second: texture_fes_outside_BCDE_39_69
+  - first:
+      213: 6330035826485737652
+    second: texture_fes_outside_BCDE_39_70
+  - first:
+      213: 8594863702083688561
+    second: texture_fes_outside_BCDE_39_71
+  - first:
+      213: -5683019952407197578
+    second: texture_fes_outside_BCDE_39_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 673
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b8092d38e70fef0800000000000000
+      internalID: -76422089026794642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 575
+        width: 432
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c8e53c182251bc0800000000000000
+      internalID: -3813103568775377844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_2
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 721
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7641f26a186750c70800000000000000
+      internalID: 8936679334797579367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_3
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 723
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dadfbac72e28d780800000000000000
+      internalID: -8658119535179605290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_4
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 719
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730aab6eaa11a8310800000000000000
+      internalID: 1407957259219804215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e0e7e7323361340800000000000000
+      internalID: 4834107477567868543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 677
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee032afe7f7109a0800000000000000
+      internalID: -6268589022983811359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 670
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e337060e66df65070800000000000000
+      internalID: 8094935998537954110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd31c7813ce8f850800000000000000
+      internalID: 6411133767037042105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 575
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21609c6dfad21c470800000000000000
+      internalID: 8413055812150822418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 577
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dfae6b864e5a190800000000000000
+      internalID: -7951698428656157351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 191
+        width: 144
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624dd56108618b10800000000000000
+      internalID: 1981979666232984162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 623
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b65cfa47f6ee470800000000000000
+      internalID: 8425794499812617093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 575
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f8cf042aefe8de0800000000000000
+      internalID: -1328844867199267047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 623
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b2c028065f3c6e0800000000000000
+      internalID: -1818340029680047213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 625
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5397a21e8f10e80800000000000000
+      internalID: -8214010599383157327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_16
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 615
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95edbdfcb58c4b70800000000000000
+      internalID: 8884623211652572570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_17
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 575
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add39e89c176a2390800000000000000
+      internalID: -7842342428590129702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_18
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 575
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e674b7e53e47dd0800000000000000
+      internalID: -2489114699094331825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_19
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 575
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9918c7276769b5ed0800000000000000
+      internalID: -2424178538937810535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_20
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 605
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fe002a230414930800000000000000
+      internalID: 4125649319858597650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 289
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64c0675a29e1a40800000000000000
+      internalID: 5340867447455762162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 375
+        width: 98
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce96454d57c6c0f0800000000000000
+      internalID: -1096970255809995057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 529
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea689ab8e9cf1db70800000000000000
+      internalID: 8922190094675838638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_24
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 503
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94660d2072b76fa10800000000000000
+      internalID: 1942875696738100809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_25
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 529
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6894fa54da63dd250800000000000000
+      internalID: 5970988798789503366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_26
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 439
+        width: 142
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6a97906bdc1ac70800000000000000
+      internalID: 8980685313680189182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 341
+        width: 12
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eef8d9bf733eee80800000000000000
+      internalID: -8147518052194779419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_28
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 317
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f47b0a1d83b660e0800000000000000
+      internalID: -2276935142980487943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 295
+        width: 142
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979728b30bfd08db0800000000000000
+      internalID: -4791584055516563079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 295
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e6d97308eefb1d0800000000000000
+      internalID: -3332682964774588824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 289
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd0610f25b8ea460800000000000000
+      internalID: 7254889238072004050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 289
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e613e869aec86510800000000000000
+      internalID: 1542710099378902758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 291
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8a54b18e5afb3b0800000000000000
+      internalID: -5494490604060170004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7424f12236e398c80800000000000000
+      internalID: -8320050241095122361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 233
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae326287d79e1a1c0800000000000000
+      internalID: -4494054228043095062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 233
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1052ae2f6c5f5700800000000000000
+      internalID: 531244913646522395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05212c40d5d623dd0800000000000000
+      internalID: -2507821796212731312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 239
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1d0c69e29b83f40800000000000000
+      internalID: 5708516137440956881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 243
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a1662f2d606ac0800000000000000
+      internalID: -3863968431009062216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 249
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fbfeb2111e9f9d0800000000000000
+      internalID: -2739911434410410207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 239
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a6658e386803da0800000000000000
+      internalID: -5967121605169092022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 241
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ea723e31eff25c0800000000000000
+      internalID: -4237889362963485045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_43
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 151
+        width: 142
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b566bfc6f13a430800000000000000
+      internalID: 3792909864110807821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6395381f6790c0740800000000000000
+      internalID: 5119477282876119350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 193
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9937cc0eac393c0800000000000000
+      internalID: -4353913347885524482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 203
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7634d42eabd8fa0800000000000000
+      internalID: -5796771664234321982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000f40ebc9baf1090800000000000000
+      internalID: -8061536118278656000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_48
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 221
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1acc30c57a17ab0800000000000000
+      internalID: -5012040896644079164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 147
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf23df3928428180800000000000000
+      internalID: -9114643353842798641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 175
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824d084aa7f10c890800000000000000
+      internalID: -7439911972809681880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 169
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70b55d01397ba620800000000000000
+      internalID: 2786454046042861691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 143
+        width: 138
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdb2582cd75d4de0800000000000000
+      internalID: -1347324110432977466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 99
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861cac80583f4e5d0800000000000000
+      internalID: -3034032496237166232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_54
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12dfcd9be2ce1a0800000000000000
+      internalID: -6778991963288034895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50b2656cf0a88830800000000000000
+      internalID: 4073682868849782879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 151
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b65f1c78468dc160800000000000000
+      internalID: 7047436637782890162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_57
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 123
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865910167f82874f0800000000000000
+      internalID: -830869088300329624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_58
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 123
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5f9e2bc55bdb840800000000000000
+      internalID: 5241544951072421329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_59
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 123
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d6782b0c2232e00800000000000000
+      internalID: 1018696151740149018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_60
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 123
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e40a9ce42f09d70800000000000000
+      internalID: 9047998071591423618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_61
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 125
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b1f409006b32250800000000000000
+      internalID: 5918774448832322352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fadf272d4118c830800000000000000
+      internalID: 4091539284533697265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 35
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934008f803a20a7f0800000000000000
+      internalID: -603435962013318087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_64
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf7f4e3d7f5c9700800000000000000
+      internalID: 548418246153306040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 234
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bc1b3829bd6c870800000000000000
+      internalID: 8702884752261237645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_66
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 29
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a24bb5d53361f130800000000000000
+      internalID: 3598766660115972774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_67
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 27
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e5817ce361a4560800000000000000
+      internalID: 7298670604991356541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_68
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 27
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d7fd33bb12280a0800000000000000
+      internalID: -6880900192755810918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_69
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 27
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669c3044d359502a0800000000000000
+      internalID: -6771842374315030170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_70
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 69
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8bd25db0ec8d750800000000000000
+      internalID: 6330035826485737652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_71
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 59
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178d89fdff6174770800000000000000
+      internalID: 8594863702083688561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_fes_outside_BCDE_39_72
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 29
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678cf45967bd121b0800000000000000
+      internalID: -5683019952407197578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      texture_fes_outside_BCDE_39_0: -76422089026794642
+      texture_fes_outside_BCDE_39_1: -3813103568775377844
+      texture_fes_outside_BCDE_39_10: -7951698428656157351
+      texture_fes_outside_BCDE_39_11: 1981979666232984162
+      texture_fes_outside_BCDE_39_12: 8425794499812617093
+      texture_fes_outside_BCDE_39_13: -1328844867199267047
+      texture_fes_outside_BCDE_39_14: -1818340029680047213
+      texture_fes_outside_BCDE_39_15: -8214010599383157327
+      texture_fes_outside_BCDE_39_16: 8884623211652572570
+      texture_fes_outside_BCDE_39_17: -7842342428590129702
+      texture_fes_outside_BCDE_39_18: -2489114699094331825
+      texture_fes_outside_BCDE_39_19: -2424178538937810535
+      texture_fes_outside_BCDE_39_2: 8936679334797579367
+      texture_fes_outside_BCDE_39_20: 4125649319858597650
+      texture_fes_outside_BCDE_39_21: 5340867447455762162
+      texture_fes_outside_BCDE_39_22: -1096970255809995057
+      texture_fes_outside_BCDE_39_23: 8922190094675838638
+      texture_fes_outside_BCDE_39_24: 1942875696738100809
+      texture_fes_outside_BCDE_39_25: 5970988798789503366
+      texture_fes_outside_BCDE_39_26: 8980685313680189182
+      texture_fes_outside_BCDE_39_27: -8147518052194779419
+      texture_fes_outside_BCDE_39_28: -2276935142980487943
+      texture_fes_outside_BCDE_39_29: -4791584055516563079
+      texture_fes_outside_BCDE_39_3: -8658119535179605290
+      texture_fes_outside_BCDE_39_30: -3332682964774588824
+      texture_fes_outside_BCDE_39_31: 7254889238072004050
+      texture_fes_outside_BCDE_39_32: 1542710099378902758
+      texture_fes_outside_BCDE_39_33: -5494490604060170004
+      texture_fes_outside_BCDE_39_34: -8320050241095122361
+      texture_fes_outside_BCDE_39_35: -4494054228043095062
+      texture_fes_outside_BCDE_39_36: 531244913646522395
+      texture_fes_outside_BCDE_39_37: -2507821796212731312
+      texture_fes_outside_BCDE_39_38: 5708516137440956881
+      texture_fes_outside_BCDE_39_39: -3863968431009062216
+      texture_fes_outside_BCDE_39_4: 1407957259219804215
+      texture_fes_outside_BCDE_39_40: -2739911434410410207
+      texture_fes_outside_BCDE_39_41: -5967121605169092022
+      texture_fes_outside_BCDE_39_42: -4237889362963485045
+      texture_fes_outside_BCDE_39_43: 3792909864110807821
+      texture_fes_outside_BCDE_39_44: 5119477282876119350
+      texture_fes_outside_BCDE_39_45: -4353913347885524482
+      texture_fes_outside_BCDE_39_46: -5796771664234321982
+      texture_fes_outside_BCDE_39_47: -8061536118278656000
+      texture_fes_outside_BCDE_39_48: -5012040896644079164
+      texture_fes_outside_BCDE_39_49: -9114643353842798641
+      texture_fes_outside_BCDE_39_5: 4834107477567868543
+      texture_fes_outside_BCDE_39_50: -7439911972809681880
+      texture_fes_outside_BCDE_39_51: 2786454046042861691
+      texture_fes_outside_BCDE_39_52: -1347324110432977466
+      texture_fes_outside_BCDE_39_53: -3034032496237166232
+      texture_fes_outside_BCDE_39_54: -6778991963288034895
+      texture_fes_outside_BCDE_39_55: 4073682868849782879
+      texture_fes_outside_BCDE_39_56: 7047436637782890162
+      texture_fes_outside_BCDE_39_57: -830869088300329624
+      texture_fes_outside_BCDE_39_58: 5241544951072421329
+      texture_fes_outside_BCDE_39_59: 1018696151740149018
+      texture_fes_outside_BCDE_39_6: -6268589022983811359
+      texture_fes_outside_BCDE_39_60: 9047998071591423618
+      texture_fes_outside_BCDE_39_61: 5918774448832322352
+      texture_fes_outside_BCDE_39_62: 4091539284533697265
+      texture_fes_outside_BCDE_39_63: -603435962013318087
+      texture_fes_outside_BCDE_39_64: 548418246153306040
+      texture_fes_outside_BCDE_39_65: 8702884752261237645
+      texture_fes_outside_BCDE_39_66: 3598766660115972774
+      texture_fes_outside_BCDE_39_67: 7298670604991356541
+      texture_fes_outside_BCDE_39_68: -6880900192755810918
+      texture_fes_outside_BCDE_39_69: -6771842374315030170
+      texture_fes_outside_BCDE_39_7: 8094935998537954110
+      texture_fes_outside_BCDE_39_70: 6330035826485737652
+      texture_fes_outside_BCDE_39_71: 8594863702083688561
+      texture_fes_outside_BCDE_39_72: -5683019952407197578
+      texture_fes_outside_BCDE_39_8: 6411133767037042105
+      texture_fes_outside_BCDE_39_9: 8413055812150822418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

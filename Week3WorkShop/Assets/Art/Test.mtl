@@ -1,0 +1,18 @@
+newmtl TileA4-Train
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Tr 0.000000
+illum 0
+Ns 0.000000
+map_Kd texture_TileA4-Train.png
+map_d texture_TileA4-Train.png
+newmtl steampunk_air_E-Photoroom
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Tr 0.000000
+illum 0
+Ns 0.000000
+map_Kd texture_steampunk_air_E-Photoroom.png
+map_d texture_steampunk_air_E-Photoroom.png

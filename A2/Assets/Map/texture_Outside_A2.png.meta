@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 1b63b5be85c75f84882c4c2fffa3833e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8966980435091041203
+    second: texture_Outside_A2_0
+  - first:
+      213: 2689490565721873350
+    second: texture_Outside_A2_1
+  - first:
+      213: -8704564738394113911
+    second: texture_Outside_A2_2
+  - first:
+      213: 6046283154439260064
+    second: texture_Outside_A2_3
+  - first:
+      213: 1622796029576561081
+    second: texture_Outside_A2_4
+  - first:
+      213: -4548987180683974156
+    second: texture_Outside_A2_5
+  - first:
+      213: 7384070713894365996
+    second: texture_Outside_A2_6
+  - first:
+      213: -7212215629821335170
+    second: texture_Outside_A2_7
+  - first:
+      213: 8202468280182111831
+    second: texture_Outside_A2_8
+  - first:
+      213: -6752241321015549025
+    second: texture_Outside_A2_9
+  - first:
+      213: -8058449586124386447
+    second: texture_Outside_A2_10
+  - first:
+      213: 2049682076499031838
+    second: texture_Outside_A2_11
+  - first:
+      213: 3485810409767315858
+    second: texture_Outside_A2_12
+  - first:
+      213: -1993463171282691047
+    second: texture_Outside_A2_13
+  - first:
+      213: -3705888680059561936
+    second: texture_Outside_A2_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: texture_Outside_A2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 577
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44558aadc2ee8380800000000000000
+      internalID: -8966980435091041203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 239
+        width: 96
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbdd948b6df25520800000000000000
+      internalID: 2689490565721873350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 531
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988b0ab3d7c233780800000000000000
+      internalID: -8704564738394113911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_3
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 527
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7c7cf8e76b8e350800000000000000
+      internalID: 6046283154439260064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_4
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 434
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b143d51464558610800000000000000
+      internalID: 1622796029576561081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 387
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9a68fb240ced0c0800000000000000
+      internalID: -4548987180683974156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_6
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 383
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2be90a113d797660800000000000000
+      internalID: 7384070713894365996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_7
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 290
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79aafcb81019eb90800000000000000
+      internalID: -7212215629821335170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_8
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 243
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ef9a9317505d170800000000000000
+      internalID: 8202468280182111831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 239
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93672f1b483b42a0800000000000000
+      internalID: -6752241321015549025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_10
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 92
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f89a20cc2aa2090800000000000000
+      internalID: -8058449586124386447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 146
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17b5382dfee17c10800000000000000
+      internalID: 2049682076499031838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_12
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 99
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2992a8c5916106030800000000000000
+      internalID: 3485810409767315858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_13
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 95
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c1fdabecbc554e0800000000000000
+      internalID: -1993463171282691047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture_Outside_A2_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03898ef41e9029cc0800000000000000
+      internalID: -3705888680059561936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      texture_Outside_A2_0: -8966980435091041203
+      texture_Outside_A2_1: 2689490565721873350
+      texture_Outside_A2_10: -8058449586124386447
+      texture_Outside_A2_11: 2049682076499031838
+      texture_Outside_A2_12: 3485810409767315858
+      texture_Outside_A2_13: -1993463171282691047
+      texture_Outside_A2_14: -3705888680059561936
+      texture_Outside_A2_2: -8704564738394113911
+      texture_Outside_A2_3: 6046283154439260064
+      texture_Outside_A2_4: 1622796029576561081
+      texture_Outside_A2_5: -4548987180683974156
+      texture_Outside_A2_6: 7384070713894365996
+      texture_Outside_A2_7: -7212215629821335170
+      texture_Outside_A2_8: 8202468280182111831
+      texture_Outside_A2_9: -6752241321015549025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
